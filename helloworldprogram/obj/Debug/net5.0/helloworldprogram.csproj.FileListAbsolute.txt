@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.exe
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.deps.json
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.runtimeconfig.json
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.runtimeconfig.dev.json
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.dll
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\ref\helloworldprogram.dll
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\bin\Debug\net5.0\helloworldprogram.pdb
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.AssemblyInfo.cs
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.dll
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\ref\helloworldprogram.dll
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.pdb
+C:\Users\hp\source\repos\helloworldprogram\helloworldprogram\obj\Debug\net5.0\helloworldprogram.genruntimeconfig.cache
