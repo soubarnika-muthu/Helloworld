@@ -8,5 +8,11 @@ namespace helloworldprogram
 {
     class Demo
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("merging");
+        
+        }
     }
+}
 }
