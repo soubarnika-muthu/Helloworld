@@ -11,8 +11,10 @@ namespace helloworldprogram
 <<<<<<< HEAD
         static void Main(string[] args)
         {
-            Console.WriteLine("merging");
+           int a=10;
             Console.WriteLine("creating conflict");
+            Console.WriteLine(a);
+             
         
         }
 =======
