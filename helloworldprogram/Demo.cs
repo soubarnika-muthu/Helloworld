@@ -8,7 +8,9 @@ namespace helloworldprogram
 {
     class Demo
     {
-             Console.WriteLine("merging  files");
+             string message = "Hello World!!";
+
+            Console.WriteLine(message);
         
     }
 }
