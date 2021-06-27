@@ -11,6 +11,7 @@ namespace helloworldprogram
         static void Main(string[] args)
         {
             Console.WriteLine("merging");
+            Console.WriteLine("creating conflict");
         
         }
     }
