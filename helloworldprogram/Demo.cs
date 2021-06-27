@@ -8,7 +8,7 @@ namespace helloworldprogram
 {
     class Demo
     {
-        console.writeline("mreging files");
+             Console.WriteLine("merging  files");
         
     }
 }
